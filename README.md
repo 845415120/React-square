@@ -2,7 +2,9 @@
 # React-井字游戏
 
 https://zh-hans.react.dev/learn/tutorial-tic-tac-toe
-
+将压缩包解压，打开终端并使用 cd 命令切换到你解压后的目录。
+使用 npm install 安装依赖。
+运行 npm start 启动本地服务器，按照提示在浏览器中查看运行效果。
 ## 构建棋盘
 
 ```jsx
